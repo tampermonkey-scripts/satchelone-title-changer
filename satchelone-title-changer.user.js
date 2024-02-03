@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SatchelOne Title Changer
 // @namespace    http://choudry.org
-// @version      0.0.1
+// @version      0.0.2
 // @description  changes the title of SatchelOne tabs to reflect actual title
 // @author       You
 // @match        https://*.satchelone.com/*
