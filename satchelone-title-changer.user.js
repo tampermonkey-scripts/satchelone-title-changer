@@ -5,7 +5,7 @@
 // @description  changes the title of SatchelOne tabs to reflect actual title
 // @author       You
 // @match        https://*.satchelone.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=satchelone.com
+// @icon         https://d3acmx713t44o3.cloudfront.net/images/favicon-d8c2d8ccfb6986c7a5177290b9688b5b.ico
 // @grant        none
 // ==/UserScript==
 
